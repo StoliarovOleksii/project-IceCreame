@@ -1,21 +1,21 @@
 {
-  "name": "ice-cream",
+  "name": "project-icecreame",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://stoliarovoleksii.github.io/project-IceCreame/",
+  "homepage": "https://stoliarovoleksii.github.io/project-icecreame/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url/project-IceCreame"
+    "build": "parcel build src/*.html --public-url/project-icecreame"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IgorBoichuk/ice-cream.git"
+    "url": "git+https://stoliarovoleksii.github.io/project-icecreame.git"
   },
   "keywords": [],
-  "author": "Igor Boichuk <ihor.boichuk@gmail.com>",
+  "author": "Oleksii Stoliarov <stolyarov9221@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IgorBoichuk/ice-cream/issues"
+    "url": "https://github.com/stoliarovoleksii/project-icecreame/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
